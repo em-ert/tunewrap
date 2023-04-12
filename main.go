@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
+
+var version string
 
 func main() {
 	fmt.Println("hello world")
+
 }
